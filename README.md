@@ -36,8 +36,8 @@ Make sure you have Python 3.x installed and set up in your environment.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amritacharya022/secure-API.pay.git
-   cd secure-API.pay
+   git clone https://github.com/amritacharya022/secure-API-pay.git
+   cd secure-API-pay
    ```
 
 2. Install dependencies:
